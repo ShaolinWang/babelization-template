@@ -1,0 +1,12 @@
+{
+  "name": "babelization-template",
+  "version": "1.0.0",
+  "description": "babelization normalization template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["babelization"],
+  "author": "wangshaolin3@jd.com",
+  "license": "ISC"
+}
